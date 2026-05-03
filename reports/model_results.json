@@ -1,0 +1,10 @@
+{
+  "best_model": "Logistic Regression",
+  "auc": 0.6966,
+  "f1": 0.2092,
+  "accuracy": 0.752,
+  "n_features": 18,
+  "dataset_size": 5000,
+  "default_rate": 0.2432,
+  "run_date": "2026-05-03T23:16:10.774500"
+}
